@@ -1,0 +1,3 @@
+rootProject.name = "ScopeStorage"
+include ':app'
+include ':scopedstoragemodule'
